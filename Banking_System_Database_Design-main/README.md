@@ -1,7 +1,7 @@
 # 🏦 Banking System Database – BUDDY BANK
 
 ## 📌 Project Overview
-This project is a **relational database system** designed to manage core banking operations, built as part of CS3700 Assignments 1 & 3.  
+This project is a **relational database system** designed to manage core banking operations  
 It models various entities such as **Branches, Customers, Accounts, Loans, Employees, Credit/Debit Cards, Passbooks, and Transactions**, supporting realistic banking functionalities and relationships.
 
 The project includes:
@@ -66,6 +66,4 @@ The **ER diagram** and **relational schema** can be found in `ERD&Scheme.pdf`.
 
 ---
 
-## 👨‍💻 Author
-**Gurrala Abhishek**  
-CS22B049 – CS3700 Database Systems Project
+
